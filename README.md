@@ -37,5 +37,8 @@ You may have add the following in our program using "Add Subscriber" functionali
   "status": "ACTIVE"
   }
 
+**Note: I have also included the file "ims.sql" in this repository. This is the database that I have created.**
+**You may choose to import this to your PHPMyAdmin.**
+
 Thank you and have fun! :)
   
